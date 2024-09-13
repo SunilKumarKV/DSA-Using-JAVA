@@ -2,7 +2,7 @@
 Let's learn about the different elements of a Java program:
 
 Let's take this example code:
-```
+```bash
 class HelloWorld
 {
 	public static void main (String[] args)
