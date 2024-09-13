@@ -19,12 +19,12 @@ Let's see how to output some text.
 There is only one difference with printing a number: all textual content should start and end with double quotes ("").
 
 For example, we output a number like this
-```
+```bash
 System.out.println(10);
 ```
 
 But to output a text, we do this
-```
+```bash
 System.out.println("I love Java");
 ```
 
@@ -40,7 +40,7 @@ In Java, there are two primary ways to add comments to your code:
 
 - Syntax: // Your comment here
 - Example:
-```
+```bash
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, World!"); // This is a single-line comment. It prints "Hello, World!".
@@ -53,7 +53,7 @@ Single-line comments start with // and continue to the end of the line. They are
 
 - Syntax: /* Your multi-line comment here */
 - Example:
-```
+```bash
 /* 
   This is a multi-line comment
   spanning multiple lines
@@ -79,7 +79,7 @@ Multi-line comments start with /* and end with */. They can span multiple lines 
 In this lesson, we learned about how to output numbers and text in Java using print statement.
 
 To print numbers, we just add them inside print:
-```
+```bash
 System.out.println(20);
 
 // Output:
@@ -88,7 +88,7 @@ System.out.println(20);
 Don't forget the semicolon (;) at the end of line.
 
 Also, we can do mathematical operations inside print statement itself, like addition, subtraction etc.
-```
+```bash
 System.out.println(2 + 2);
 System.out.println(1 - 2);
 
@@ -97,7 +97,7 @@ System.out.println(1 - 2);
 // -1
 ```
 To print text, we use double quotes:
-```
+```bash
 System.out.println("I am learning Java");
 
 // Output:
