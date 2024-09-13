@@ -3,7 +3,7 @@
    - **Scope:** Declared within a method, constructor, or block, and can only be used within that method, constructor, or block.
    - **Initialization:** Must be initialized before use.
    - **Example:**
-   ```
+   ```bash
     public void myMethod() {
     int localVar = 5; // Local variable
     System.out.println(localVar);
@@ -14,7 +14,7 @@
    - **Scope:** Declared inside a class but outside any method, constructor, or block. Each instance of the class has its own copy of the instance variable.
    - **Initialization:** Automatically initialized to default values (e.g., 0 for integers, null for objects) if not explicitly initialized.
    - **Example:**
-    ```
+    ```bash
     public class MyClass {
     int instanceVar; // Instance variable
     
@@ -30,7 +30,7 @@
    - **Initialization:** Like instance variables, static variables are automatically initialized to default values if not explicitly initialized.
    - **Example:**
 
-   ```
+   ```bash
    public class MyClass {
     static int staticVar = 10; // Static variable
     
