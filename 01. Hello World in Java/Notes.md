@@ -72,3 +72,37 @@ Multi-line comments start with /* and end with */. They can span multiple lines 
 - Update Regularly: Remember to update comments when you modify the code to ensure they remain accurate and relevant.
 
 - Avoid Redundancy: Avoid writing comments that only restate the obvious. Comments should provide additional information or insights that are not immediately evident from the code itself.
+
+***
+
+# Review and Reflect - Print
+In this lesson, we learned about how to output numbers and text in Java using print statement.
+
+To print numbers, we just add them inside print:
+```
+System.out.println(20);
+
+// Output:
+// 20
+```
+Don't forget the semicolon (;) at the end of line.
+
+Also, we can do mathematical operations inside print statement itself, like addition, subtraction etc.
+```
+System.out.println(2 + 2);
+System.out.println(1 - 2);
+
+// Output:
+// 4
+// -1
+```
+To print text, we use double quotes:
+```
+System.out.println("I am learning Java");
+
+// Output:
+// I am learning Java
+```
+You get an error if you don't add double quotes when printing text. Also, any text that start with // is called a comment and Java ignores these lines when running your code.
+
+In the next lesson, we will learn about how we can use print statement to print on multiple lines or multiple texts on same line, and do more complex mathematical operations.
