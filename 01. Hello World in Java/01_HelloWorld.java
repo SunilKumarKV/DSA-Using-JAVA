@@ -8,7 +8,7 @@ class HelloWorld {
 
 
 // Printing text in Java Like this
-class CodeChef
+class HelloWorld
 {
 	public static void main (String[] args)
 	{
