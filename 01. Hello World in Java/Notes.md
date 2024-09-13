@@ -1,4 +1,4 @@
-Introduction
+## Introduction
 Let us output a number in Java.
 
 Java has a few lines of code which we write in almost all programs.
