@@ -16,3 +16,4 @@ git clone https://github.com/SunilKumarKV/DSA-Using-JAVA.git
 **This repository contains DSA problem solution codes using Java with different approaches, helping you to master DSA concepts from basic to advanced levels.**
 
 ### 📚 [01. Hello World in Java](./01.%20Hello%20World%20in%20Java/)
+### 📚 [02. Variables in Java](./02.%20Variables%20in%20Java/)
