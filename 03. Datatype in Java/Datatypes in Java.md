@@ -2,7 +2,7 @@
 
 Java's primitive data types are the basic building blocks of data manipulation. primitive data types are the simplest form of data and are not objects. Each primitive data type has a specific size and range. Here’s a detailed overview:
 
-## 1.byte:
+## 1.`byte`:
   - **Size**: 8-bit
   - **Range**: -128 to 127
   - **Use Case**: Useful for saving memory in large arrays, where the memory savings actually matters. Also used for file I/O.
