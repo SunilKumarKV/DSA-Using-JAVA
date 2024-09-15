@@ -1,5 +1,5 @@
 public class Datatype {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
     		// Your code goes here
     		int x = 5123;
     		long x2 = 51234567891011221L;
