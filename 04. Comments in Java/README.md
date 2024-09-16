@@ -18,3 +18,21 @@ int x = 10; // This is also a single-line comment
  */
 int y = 20;
 ```
+3. **Documentation Comments**: Documentation comments are used to generate API documentation. They are enclosed between `/**` and `*/` and are used to describe classes, methods, and fields. These comments can be processed by tools like Javadoc to produce HTML documentation.
+
+```bash
+/**
+ * This class represents a simple example.
+ * It demonstrates the use of documentation comments.
+ */
+public class Example {
+    /**
+     * This method prints a greeting message.
+     * 
+     * @param name the name of the person to greet
+     */
+    public void greet(String name) {
+        System.out.println("Hello, " + name + "!");
+    }
+}
+```
