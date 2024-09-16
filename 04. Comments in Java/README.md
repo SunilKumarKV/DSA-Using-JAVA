@@ -36,3 +36,8 @@ public class Example {
     }
 }
 ```
+## Best Practices for Comments:
+
+  - **Be Clear and Concise**: Comments should be easy to read and understand. Avoid unnecessary comments that do not add value.
+  - **Update Comments**: Ensure comments are updated if the code changes. Outdated comments can be misleading.
+  - **Use Documentation Comments for Public APIs**: Use Javadoc comments for public classes, methods, and fields to provide meaningful documentation that can be automatically generated.
