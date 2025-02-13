@@ -17,3 +17,5 @@ git clone https://github.com/SunilKumarKV/DSA-Using-JAVA.git
 
 ### 📚 [01. Hello World in Java](./01.%20Hello%20World%20in%20Java/)
 ### 📚 [02. Variables in Java](./02.%20Variables%20in%20Java/)
+### 📚 [03. Datatype in Java](./02.%20Datatype%20in%20Java/)
+### 📚 [02. Variables in Java](./02.%20Variables%20in%20Java/)
